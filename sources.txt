@@ -1,0 +1,33 @@
+quellen: // COPY THIS INTO SRC.HTML !!!!
+
+inhaltliche uqellen:
+https://www.kas.de/en/web/geschichte-der-cdu/saekularisierung
+https://www.juraforum.de/lexikon/saekularisierung
+https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/321226/saekularisierung/
+https://de.wikipedia.org/wiki/S%C3%A4kularisierung
+https://www.deutschland.de/de/topic/politik/staat-und-religion-in-deutschland-die-fuenf-wichtigsten-fakten
+http://geoconfluences.ens-lyon.fr/glossaire/secularisation
+https://www.ev-akademiker.de/situation-der-kirche-in-einer-saekularen-gesellschaft/
+https://de.wikipedia.org/wiki/S%C3%A4kularisation
+https://www.wolfgang-schaeuble.de/religion-im-saekularen-staat/
+https://www.la-croix.com/Religion/Leffacement-religions-Europe-jusquou-2020-01-27-1201074409
+https://pressbooks.howardcc.edu/soci101/chapter/17-3-sociological-perspectives-on-religion/
+https://en.wikipedia.org/wiki/History_of_religion
+https://fr.wikipedia.org/wiki/Histoire_des_religions
+https://de.wikipedia.org/wiki/Geschichte_der_Religion
+https://www.rbb-online.de/schulstunde-glaube/unterrichtsmaterial/Warum_gibt_es_Glaube/1_A_3_Antike.file.html/A_schlau_Antike.pdf
+https://www.leben-im-mittelalter.net/gesellschaft-im-mittelalter/religion-und-christentum-im-mittelalter.html
+https://www.jw.org/fr/biblioth%C3%A8que/revues/g201511/la-religion-sur-le-declin/
+https://www.andracor.com/de/productinfo/mittelalter-die-rolle-der-religion
+https://www.bmi.bund.de/DE/themen/heimat-integration/gesellschaftlicher-zusammenhalt/staat-und-religion/religionsverfassungsrecht/religionsverfassungsrecht-node.html
+
+bildquellen:
+https://www.katholisch.de/artikel/24925-03-22-newsticker-corona-und-die-kirche
+https://fowid.de/meldung/religionszugehoerigkeiten-2020
+https://en.wikipedia.org/wiki/Venus_figurine
+https://www.istockphoto.com/de/fotos/h%C3%B6hlenmalerei
+https://www.picfair.com/pics/05587991-indian-hindu-pilgrims-bathing-in-the-ganges-river-at-dashashwamedh-ghat-in
+https://short-history.com/aztec-human-sacrifice-3bb6577c81a5?gi=594b8f101477
+
+
+aufgerufen 1.5.2023
